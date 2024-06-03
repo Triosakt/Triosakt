@@ -1,3 +1,12 @@
+## 👋 Hii! I'm Trio sakti ardika
+
+👨🏻‍💻 **About me:**
+- 🔰 Student majoring in computer science at Lampung University.
+- 🎯 I'm currently in my 4th semester.
+- 🚧 I want to contribute to innovative web development projects. Even though I'm still a beginner, I'm excited to learn and adapt.
+- 📮 Contact me via email: [triosakti7@gmail.com]
+
+
 
 <p align="center">
 
