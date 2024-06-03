@@ -3,7 +3,7 @@
 
 <!--🐱CAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" width="100">
 
 <!--🤔INTERESTTITLE-->
 <p align="center">
