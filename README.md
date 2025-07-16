@@ -6,6 +6,7 @@ I may still be growing, but I’m always eager to explore new technologies, solv
 Let’s build something impactful together.
 
 📫 Email: triosakti7@gmail.com
+  linkedin : trio sakti ardika
 
 
 <!-- INTEREST SECTION -->
